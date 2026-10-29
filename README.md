@@ -56,11 +56,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [KISPilot - 한국투자증권 Open API 웹 콘솔 & AI 에이전트(MCP) 만들기](https://dongju923.github.io/project/kispilot/)
+- [KISPilot - 한국투자증권 Open API 웹 콘솔 &amp;amp; AI 에이전트&lpar;MCP&rpar; 만들기](https://dongju923.github.io/project/kispilot/)
 - [Muon Optimizer 정리](https://dongju923.github.io/paper/Muon/)
 - [Interleaved Pipeline Parallelism과 BitPipe 논문정리](https://dongju923.github.io/paper/BitPipe/)
 - [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models 논문정리](https://dongju923.github.io/paper/ZeRO/)
-- [DeepSeek-V3의 MTP(Multi-token Prediction) 정리](https://dongju923.github.io/paper/DeepSeek-MTP/)
+- [DeepSeek-V3의 MTP&lpar;Multi-token Prediction&rpar; 정리](https://dongju923.github.io/paper/DeepSeek-MTP/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그에서 더 보기](https://dongju923.github.io)
