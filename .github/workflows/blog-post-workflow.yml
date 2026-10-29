@@ -1,0 +1,21 @@
+# 블로그 RSS(feed.xml)에서 최신 글 5개를 가져와 README 의 BLOG-POST-LIST 영역을 갱신한다
+name: Latest blog post workflow
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매일 09:00 (KST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dongju923.github.io/feed.xml"
+          max_post_count: 5
