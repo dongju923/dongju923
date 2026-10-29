@@ -5,8 +5,6 @@
 ### 안녕하세요, 안동주입니다 👋
 
 딥러닝과 LLM을 공부하고, 읽은 논문과 만든 것들을 블로그에 정리합니다.<br/>
-요즘은 **LLM 학습·추론 효율화**(MLA, MTP, ZeRO, Pipeline Parallelism, Muon)와<br/>
-**AI 에이전트(MCP)** 를 활용한 도구 만들기에 관심이 많습니다.
 
 <a href="https://dongju923.github.io"><img src="https://img.shields.io/badge/Blog-DONGJU'S%20BLOG-FBC0C8?style=flat-square&logo=githubpages&logoColor=white" /></a>
 <a href="mailto:andongju923@naver.com"><img src="https://img.shields.io/badge/Email-andongju923@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" /></a>
