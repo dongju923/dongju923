@@ -56,7 +56,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [KISPilot - 한국투자증권 Open API 웹 콘솔 &amp;amp; AI 에이전트&lpar;MCP&rpar; 만들기](https://dongju923.github.io/project/kispilot/)
+- [KISPilot - 한국투자증권 Open API 웹 콘솔과 AI 에이전트&lpar;MCP&rpar; 만들기](https://dongju923.github.io/project/kispilot/)
 - [Muon Optimizer 정리](https://dongju923.github.io/paper/Muon/)
 - [Interleaved Pipeline Parallelism과 BitPipe 논문정리](https://dongju923.github.io/paper/BitPipe/)
 - [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models 논문정리](https://dongju923.github.io/paper/ZeRO/)
