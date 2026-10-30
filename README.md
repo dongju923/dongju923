@@ -54,11 +54,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GLM-5: from Vibe Coding to Agentic Engineering 논문정리](https://dongju923.github.io/paper/GLM-5/)
+- [RT-1: Robotics Transformer for Real-World Control at Scale 논문정리](https://dongju923.github.io/paper/RT-1/)
+- [ReDiTT: Retrieval Augmented Conditional Diffusion Transformers for Asynchronous Time Series 논문정리](https://dongju923.github.io/paper/ReDiTT/)
 - [KISPilot - 한국투자증권 Open API 웹 콘솔과 AI 에이전트&lpar;MCP&rpar; 만들기](https://dongju923.github.io/project/kispilot/)
 - [Muon Optimizer 정리](https://dongju923.github.io/paper/Muon/)
-- [Interleaved Pipeline Parallelism과 BitPipe 논문정리](https://dongju923.github.io/paper/BitPipe/)
-- [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models 논문정리](https://dongju923.github.io/paper/ZeRO/)
-- [DeepSeek-V3의 MTP&lpar;Multi-token Prediction&rpar; 정리](https://dongju923.github.io/paper/DeepSeek-MTP/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그에서 더 보기](https://dongju923.github.io)
