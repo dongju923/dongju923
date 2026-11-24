@@ -54,11 +54,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BetaEvolve - Claude Code 에이전트로 AlphaEvolve 구현하기](https://dongju923.github.io/project/betaevolve/)
 - [Transformer Visualizer - Llama / LLaVA 구조를 브라우저에서 forward·backward 해보기](https://dongju923.github.io/project/transformer_visualizer/)
 - [HarnessPAI: An Evolving Harness for Physical AI 논문정리](https://dongju923.github.io/paper/vla/HarnessPAI/)
 - [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models 논문정리](https://dongju923.github.io/paper/vla/CoT-VLA/)
 - [OpenVLA: An Open-Source Vision-Language-Action Model 논문정리](https://dongju923.github.io/paper/vla/OpenVLA/)
-- [RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation 논문정리](https://dongju923.github.io/paper/vla/RA-VLA/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [블로그에서 더 보기](https://dongju923.github.io)
